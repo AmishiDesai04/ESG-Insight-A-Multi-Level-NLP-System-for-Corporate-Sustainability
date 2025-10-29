@@ -134,5 +134,5 @@ ESGInsight showcases how AI and NLP can automate sustainability analytics. By in
 
 ## Authors: 
 
-This project is a collaborated work of: - [@AmishiDesai04](https://www.github.com/AmishiDesai04) , [@chahelgupta](https://www.github.com/chahelgupta) , Chaitanya Ajgaonkar, Armaan Shah
+This project is a collaborated work of: - [@AmishiDesai04](https://www.github.com/AmishiDesai04) , [@chahelgupta](https://www.github.com/chahelgupta) , Chaitanya Ajgaonkar, [@Armaanshah32](https://www.github.com/Armaanshah32)
 
